@@ -1,0 +1,2 @@
+# OutletTwit.Internationalization
+internationalization managements for OutletTwit
